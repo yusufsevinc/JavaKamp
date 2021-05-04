@@ -1,13 +1,13 @@
-package javaHomeWork2;
+package javaHomeWork2_3;
 
-public class JavaCourse  extends Course{
+public class PythonCourse extends Course{
 	private boolean active;
 	
-	public JavaCourse() {
+	public PythonCourse() {
 		super();
 	}
 
-	public JavaCourse(boolean active) {
+	public PythonCourse(boolean active) {
 		super();
 		this.active = active;
 	}
@@ -19,9 +19,6 @@ public class JavaCourse  extends Course{
 	public void setActive(boolean active) {
 		this.active = active;
 	}
-	
-	
-	
 	
 	
 

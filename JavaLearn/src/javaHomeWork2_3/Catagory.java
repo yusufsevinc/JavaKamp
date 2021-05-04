@@ -1,4 +1,4 @@
-package javaHomeWork2;
+package javaHomeWork2_3;
 
 public class Catagory {
     private	int id;

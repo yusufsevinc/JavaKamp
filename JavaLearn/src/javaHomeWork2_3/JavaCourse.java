@@ -1,13 +1,13 @@
-package javaHomeWork2;
+package javaHomeWork2_3;
 
-public class CSharpCourse  extends Course{
+public class JavaCourse  extends Course{
 	private boolean active;
 	
-	public CSharpCourse() {
+	public JavaCourse() {
 		super();
 	}
 
-	public CSharpCourse(boolean active) {
+	public JavaCourse(boolean active) {
 		super();
 		this.active = active;
 	}
@@ -19,6 +19,9 @@ public class CSharpCourse  extends Course{
 	public void setActive(boolean active) {
 		this.active = active;
 	}
+	
+	
+	
 	
 	
 

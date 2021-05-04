@@ -1,13 +1,13 @@
-package javaHomeWork2;
+package javaHomeWork2_3;
 
-public class PythonCourse extends Course{
+public class CSharpCourse  extends Course{
 	private boolean active;
 	
-	public PythonCourse() {
+	public CSharpCourse() {
 		super();
 	}
 
-	public PythonCourse(boolean active) {
+	public CSharpCourse(boolean active) {
 		super();
 		this.active = active;
 	}
